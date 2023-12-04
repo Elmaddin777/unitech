@@ -1,0 +1,4 @@
+logging:
+  level:
+    az.unitech.app: DEBUG
+    ROOT: info
